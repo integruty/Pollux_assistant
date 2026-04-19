@@ -1,0 +1,722 @@
+[
+  {
+    "role": "user",
+    "text": "What the fuck is the look"
+  },
+  {
+    "role": "user",
+    "text": "аф"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Хорошо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Алё"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Алё"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Алё"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Алё"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": ""
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "поллукс"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "поллукс"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "поллукс"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "поллукс"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "поллукс"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "ой прямо очень плохо стало"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "это режим прослушки голоса госпо"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "Я говорю наверное его"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "это режим типа микрофона"
+  },
+  {
+    "role": "user",
+    "text": "memory"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "search"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "search"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "search"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "search"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "нету больше шмелей"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "нету больше шмелей"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "нету больше шмелей"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "запусти игру Starsector"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "найди чай"
+  },
+  {
+    "role": "assistant",
+    "text": "Я нашла это для тебя..."
+  },
+  {
+    "role": "user",
+    "text": "найди чай"
+  },
+  {
+    "role": "assistant",
+    "text": "Я нашла это для тебя..."
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "запусти stellaris"
+  },
+  {
+    "role": "assistant",
+    "text": "Запустила"
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Я здесь только для тебя."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Не забывай обо мне, хорошо?"
+  },
+  {
+    "role": "user",
+    "text": "gaw"
+  },
+  {
+    "role": "assistant",
+    "text": "Мне нравится, когда ты со мной разговариваешь..."
+  },
+  {
+    "role": "user",
+    "text": "помни загрузку"
+  },
+  {
+    "role": "assistant",
+    "text": "Я всё помню. Даже больше, чем ты думаешь..."
+  },
+  {
+    "role": "user",
+    "text": "помни что ты помнишь"
+  },
+  {
+    "role": "assistant",
+    "text": "Я всё помню. Даже больше, чем ты думаешь..."
+  }
+]
